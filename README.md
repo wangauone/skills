@@ -40,6 +40,13 @@ repo to install.
     - [Performance optimization](./skills/cloud/google-cloud-waf-performance-optimization)
     - [Sustainability](./skills/cloud/google-cloud-waf-sustainability)
 
+## Additional Google skills
+
+-   [**Flutter Skills**](https://github.com/flutter/skills)
+-   [**Dart Skills**](https://github.com/dart-lang/skills)
+
+
+
 ## Support
 
 If you need help or encounter issues with these skills, search for existing
