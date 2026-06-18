@@ -45,8 +45,7 @@ repo to install.
 
 -   [**Flutter Skills**](https://github.com/flutter/skills)
 -   [**Dart Skills**](https://github.com/dart-lang/skills)
-
-
+-   [**Advanced Google Cloud Storage Skills**](https://github.com/gemini-cli-extensions/google-cloud-storage)
 
 ## Support
 
