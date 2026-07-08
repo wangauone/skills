@@ -1,5 +1,7 @@
 ---
 name: google-cloud-solution-agentic-ai-bidirectional-streaming
+metadata:
+  category: AiAndMachineLearning
 description: >-
   Guides agents to interactively discover customer requirements for live,
   bidirectional multi-agent AI systems that process continuous streams of

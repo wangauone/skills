@@ -1,5 +1,7 @@
 ---
 name: google-cloud-solution-architecture
+metadata:
+  category: GettingStarted
 description: >-
   Interactively discovers requirements for a specific cloud workload and
   generates design recommendations and architectural guidance to build a
